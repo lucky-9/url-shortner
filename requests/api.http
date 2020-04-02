@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url
+Content-Type: application/json
+
+{
+    "longurl":"ef=redir_mobile_desktop?ie=UTF8&aaxitk=6gdUDpCFSgeKxSUmfVQqAg&hsa_cr_id=9693288690301&ref_=sb_s_sparkle"
+}
